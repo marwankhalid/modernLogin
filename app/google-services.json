@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "545224055776",
+    "firebase_url": "https://sociallogin-b19f6.firebaseio.com",
+    "project_id": "sociallogin-b19f6",
+    "storage_bucket": "sociallogin-b19f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545224055776:android:bb9d9b104b1c9d61ffa985",
+        "android_client_info": {
+          "package_name": "com.example.modernlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545224055776-29n8lkb9okombuv9a6ck4re44htu6o12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.modernlogin",
+            "certificate_hash": "4ba493bee9bfe3d52663cbd5cebe056814a3e60e"
+          }
+        },
+        {
+          "client_id": "545224055776-2kg0liundeckqq6vi43ojnlne03q6f51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPaqw3i8lsgiH3u7LrlqLXwUpGM4EE8iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545224055776-2kg0liundeckqq6vi43ojnlne03q6f51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
